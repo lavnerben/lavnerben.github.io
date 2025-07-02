@@ -32,3 +32,8 @@ font-family: "Bebas Neue";
     clear:both;
 position: sticky;
   }
+  .video{
+    position:absolute;
+    top: 0;
+    right: 0;
+  }
